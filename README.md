@@ -1,0 +1,1 @@
+將klhrd的count_down移植到android平台，並加入訊息通知功能
