@@ -1,2 +1,2 @@
-# 將klhrd的count_down移植到android平台，並加入訊息通知功能
-![本地图片](./Screenshot_20260223_184352.png)
+# 將klhrd的count_down移植到android平台
+![首頁截圖](./Screenshot_20260223_184352.png =x300)
